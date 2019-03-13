@@ -1,3 +1,3 @@
 # MessageKitCustomChat
 
-![alt text](https://github.com/NasrullahKhan/MessageKitCustomChat/blob/master/IMG_6215.PNG)
+<img src="IMG_6215.PNG" width="300">
